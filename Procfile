@@ -1,0 +1,1 @@
+web: gunicorn djheroku_project.wsgi
