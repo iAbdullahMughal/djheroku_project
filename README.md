@@ -205,7 +205,7 @@ Quit the server with CTRL-BREAK.
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000) in the browser to check if the django project is installed successfully.
 
-![](https://lh5.googleusercontent.com/CAGihr1leElmLiQEsH5pLucvFKdAydzKet8DQ2CLPHyyMbbpIO8-Z_M42eGw-A2aUeMIDEi-EaGTMspF5oHBYrp_PXw9zuJzif0PMpqZ78NaexrkqmIHK1nMxTzUX9AnPrI-ZZEj)
+![](https://lh5.googleusercontent.com/--h7eLxPgkIxbEFhC2YGPZlO_OacBcTkSF9piIFEjuzMNCKH_1f_xcEKG82_5UX4D7yBwV7lgn4DVTWDcJkK2Cdmck7KdcDrl8d1wxyOkgo5ggW0TWQ3PAGe5rkGoW9A9-cB3Ppr)
 
 ### 1.3.4 Creating Django App
 
